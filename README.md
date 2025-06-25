@@ -14,5 +14,5 @@
 </p>
 
 
-- ✉️ Email: thalesmdias.com
+- ✉️ Email: thalesmdias@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/thales-dias)
