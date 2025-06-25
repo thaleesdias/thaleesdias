@@ -16,5 +16,3 @@
 
 - ✉️ Email: thalesmdias.com
 - 💼 [LinkedIn](https://linkedin.com/in/thales-dias)
-- 💻 [Portfólio (se tiver)](https://seusite.com)
-
