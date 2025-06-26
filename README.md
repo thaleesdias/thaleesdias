@@ -1,14 +1,14 @@
-<h1 align="center">👋 Olá! Eu sou o Thales</h1>
+<h1 align="center">👋Hello there! I'm Thales 😎</h1>
 
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 
@@ -17,6 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaleesdias&layout=compact&theme=tokyonight" />
 </p>
 
+### 📫 Contact me
 
-- ![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail) [thalesmdias@gmail.com](mailto:thalesmdias@gmail.com)
+- 📧 [thalesmdias@gmail.com](mailto:thalesmdias@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/thales-dias)
