@@ -17,5 +17,5 @@
 </p>
 
 
-- [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:thalesmdias@gmail.com) [thalesmdias@gmail.com](mailto:thalesmdias@gmail.com)
+- ![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail) [thalesmdias@gmail.com](mailto:thalesmdias@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/thales-dias)
