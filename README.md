@@ -10,13 +10,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaleesdias&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaleesdias&layout=compact&theme=tokyonight" />
-</p>
-
 ### 📫 Contact me
 
 - 📧 [thalesmdias@gmail.com](mailto:thalesmdias@gmail.com)  
